@@ -191,15 +191,15 @@ h5,
 h6 {
   margin-top: 0;
   margin-bottom: 2rem;
-  font-weight: 300;
+  font-weight: 200;
 }
 h1 {
-  font-size: 4rem;
+  font-size: 3.5rem;
   line-height: 1.2;
   letter-spacing: -0.1rem;
 }
 h2 {
-  font-size: 3.6rem;
+  font-size: 3rem;
   line-height: 1.25;
   letter-spacing: -0.1rem;
 }
@@ -227,10 +227,10 @@ h6 {
 /* Larger than phablet */
 @media (min-width: 550px) {
   h1 {
-    font-size: 5rem;
+    font-size: 4rem;
   }
   h2 {
-    font-size: 4.2rem;
+    font-size: 3.8rem;
   }
   h3 {
     font-size: 3.6rem;
