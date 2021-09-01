@@ -1,7 +1,7 @@
 /* GENERAL UI
    ========================================================================== */
 html {
-  font-size: 62.5%;
+  font-size: 50%;
   scroll-behavior: smooth;
 }
 body {
@@ -80,7 +80,7 @@ section {
   height: 100%;
   z-index: 1;
   opacity: 0.1;
-  background-image: url(../icons/doc.svg);
+/*  background-image: url(../icons/doc.svg); */
   background-repeat: no-repeat;
   background-position: 50% 0;
   background-size: cover;
